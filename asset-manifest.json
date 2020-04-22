@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Khana-Khazana-React-App/static/css/main.2e78fc5a.chunk.css",
+    "main.js": "/Khana-Khazana-React-App/static/js/main.79a06c9d.chunk.js",
+    "main.js.map": "/Khana-Khazana-React-App/static/js/main.79a06c9d.chunk.js.map",
+    "runtime-main.js": "/Khana-Khazana-React-App/static/js/runtime-main.bef9c246.js",
+    "runtime-main.js.map": "/Khana-Khazana-React-App/static/js/runtime-main.bef9c246.js.map",
+    "static/js/2.b743afb0.chunk.js": "/Khana-Khazana-React-App/static/js/2.b743afb0.chunk.js",
+    "static/js/2.b743afb0.chunk.js.map": "/Khana-Khazana-React-App/static/js/2.b743afb0.chunk.js.map",
+    "index.html": "/Khana-Khazana-React-App/index.html",
+    "precache-manifest.7ca33d4747c93c6972408749fe82f121.js": "/Khana-Khazana-React-App/precache-manifest.7ca33d4747c93c6972408749fe82f121.js",
+    "service-worker.js": "/Khana-Khazana-React-App/service-worker.js",
+    "static/css/main.2e78fc5a.chunk.css.map": "/Khana-Khazana-React-App/static/css/main.2e78fc5a.chunk.css.map",
+    "static/js/2.b743afb0.chunk.js.LICENSE.txt": "/Khana-Khazana-React-App/static/js/2.b743afb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bef9c246.js",
+    "static/js/2.b743afb0.chunk.js",
+    "static/css/main.2e78fc5a.chunk.css",
+    "static/js/main.79a06c9d.chunk.js"
+  ]
+}
